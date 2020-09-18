@@ -64,6 +64,7 @@
 >nCube:Thyme for Arduino 라이브러리를 통해 oneM2M IoT 표쥰의 AE (Application Entity)를 아두이노를 사용하여 구현한 것이며, MQTT 프로토콜을 사용하여 사물인터넷 서비스 플랫폼과 연결된다.  
  
 >nCube:Thyme for Arduino는 전자부품연구원의 oneM2M IoT 표준의 CSE(Common Service Entity, 사물인터넷 서비스 플랫폼)인 Mobius와 oneM2M 표준에 정의된 Mca reference point를 통해 연결되며, 센서 데이터 측정 및 업로드와 사용자의 명령에 따른 액추에이터의 동작을 할 수 있다.  
+ 
 　  
 * ### 부표
 ------------
